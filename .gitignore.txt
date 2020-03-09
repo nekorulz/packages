@@ -1,0 +1,6 @@
+
+secret.js
+
+*.txt
+
+log*
